@@ -1,6 +1,7 @@
 
   h1 {
     text-align: center;
+    color: white;
   }
   
   .navbar {
@@ -19,6 +20,7 @@
     display: block;
     font-weight: bold;
     margin-top: 10px;
+    color: white;
   }
   
   select {
@@ -34,6 +36,16 @@
     padding: 10px;
     border: 1px solid white;
     border-radius: 5px;
+    color: white;
   }
+
+
+
+  body {
+    background-image: url(pexels-joyston-judah-933054.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
   
   

@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    color: white;
   }
   
   .navbar {
@@ -29,3 +30,15 @@ h1 {
     max-width: 100%;
     height: auto;
   }
+
+  #mountainInfo {
+    text-align: center;
+    font-size: 15pt;
+  }
+
+  body {
+    background-image: url(mountains-winter-daytime-glacier-blue-mountain-range-5k-2560x1440-1248.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

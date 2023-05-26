@@ -1,10 +1,19 @@
 
-
 h1 {
-    color: black;
-    font-size: 50pt;
-}
-
+    text-align: center;
+  }
+  
+  .navbar {
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav {
+    margin-left: auto;
+  }
 body {
     background-image: url(rough-horn-2146181_1280.jpg);
     background-repeat: no-repeat;

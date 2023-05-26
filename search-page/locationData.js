@@ -55,23 +55,3 @@ const locationsArray = [
   "Wisconsin",
   "Wyoming",
 ];
-
-// used dmg image gallery as a guideline and this link from stackkoverflow https://stackoverflow.com/questions/9895082/javascript-populate-drop-down-list-with-array
-
-
-const locationElement = document.querySelector("#parkLocation")
-
-window.onload = main;
-
-function main() {
-    locationDrop();
-}
-
-function locationDrop(){
-    for(const location of locationsArray) {
-        const option = document.createElement("option")
-        option.value = location
-        option.innerText = location;
-        locationElement.appendChild(option)
-    }
-}

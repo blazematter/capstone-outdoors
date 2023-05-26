@@ -1,6 +1,7 @@
 // i asked my brother for some help with direction for this code and also i got aid from this https://stackoverflow.com/questions/9895082/javascript-populate-drop-down-list-with-array
 // loking at this again I thought i did not do this right, because I thought the second search was suppose to filter the first search even more, which explains why I stuggled so much
-
+//https://stackoverflow.com/questions/25972879/how-can-i-add-a-change-event-listener-for-a-styled-select
+//https://stackoverflow.com/questions/50827040/how-to-filter-array-of-objects-in-javascript
 const stateSelect = document.getElementById("state-select");
 const parkTypeSelect = document.getElementById("park-type-select");
 const parkInfoContainer = document.getElementById("park-info");

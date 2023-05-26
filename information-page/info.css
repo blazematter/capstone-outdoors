@@ -1,44 +1,42 @@
 h1 {
-    text-align: center;
-    color: white;
-  }
-  
-  .navbar {
-    padding: 10px;
-  }
-  
-  .navbar-brand {
-    font-size: 1.5rem;
-  }
-  
-  .navbar-nav {
-    margin-left: auto;
-  }
-
-  select {
-    width: 100%;
-    padding: 5px;
-    margin-top: 10px;
-    margin-bottom: 15px;
-    border-radius: 5px;
-  }
-  
-
-  #mountainImage {
-    display: block;
-    margin: 20px auto;
-    max-width: 100%;
-    height: auto;
-  }
-
-  #mountainInfo {
-    text-align: center;
-    font-size: 15pt;
-  }
-
-  body {
-    background-image: url(mountains-winter-daytime-glacier-blue-mountain-range-5k-2560x1440-1248.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+  text-align: center;
+  color: white;
 }
 
+.navbar {
+  padding: 10px;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+select {
+  width: 100%;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+#mountainImage {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#mountainInfo {
+  text-align: center;
+  font-size: 15pt;
+}
+
+body {
+  background-image: url(mountains-winter-daytime-glacier-blue-mountain-range-5k-2560x1440-1248.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

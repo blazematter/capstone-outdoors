@@ -1,51 +1,49 @@
-
-  h1 {
-    text-align: center;
-    color: white;
-  }
-  
-  .navbar {
-    padding: 10px;
-  }
-  
-  .navbar-brand {
-    font-size: 1.5rem;
-  }
-  
-  .navbar-nav {
-    margin-left: auto;
-  }
-  
-  label {
-    display: block;
-    font-weight: bold;
-    margin-top: 10px;
-    color: white;
-  }
-  
-  select {
-    width: 100%;
-    padding: 5px;
-    margin-top: 5px;
-    margin-bottom: 15px;
-    border-radius: 5px;
-  }
-  
-  #park-info {
-    margin-top: 20px;
-    padding: 10px;
-    border: 1px solid white;
-    border-radius: 5px;
-    color: white;
-  }
-
-
-
-  body {
-    background-image: url(pexels-joyston-judah-933054.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+h1 {
+  text-align: center;
+  color: white;
 }
 
-  
-  
+h2 {
+  color: black;
+}
+
+.navbar {
+  padding: 10px;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+  color: white;
+}
+
+select {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+#park-info {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+}
+
+body {
+  background-image: url(pexels-joyston-judah-933054.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
